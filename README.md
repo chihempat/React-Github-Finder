@@ -5,6 +5,8 @@
 ### Module used
 #### React, Reactstrap, Firebase, Axios
 
+#### Hosted on [Netlify](https://github-finder-rjs.netlify.app)
+
 #### Features
 Login/Signup through Email & Password<br>
 Fetch User deatils through username
